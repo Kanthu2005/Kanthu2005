@@ -18,15 +18,15 @@ I'm a passionate developer who loves building cool stuff, learning new technolog
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=spy-21&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanthu2005&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spy-21&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanthu2005&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=spy-21&theme=matrix&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kanthu2005&theme=matrix&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
