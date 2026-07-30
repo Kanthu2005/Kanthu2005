@@ -1,217 +1,94 @@
-<div align="center">
-
-# 👋 Hi, I'm Kanthu Naik
-
-### 💻 Software Developer | 🤖 AI & Automation Enthusiast | 📊 Data Analytics Learner
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Software+Developer;Python+%7C+Java+%7C+MySQL;AI+Automation+with+n8n;Power+BI+%7C+Excel;Building+Real-World+Projects" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Kanthu2005&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Kanthu2005?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Kanthu2005?style=for-the-badge" />
-</p>
-
-</div>
+# 💫 About Me:
+🎓 B.Tech Graduate in Information Technology passionate about software development, automation, and data analytics.<br>
+💻 Passionate about building real-world applications using modern technologies.<br>
+🚀 Quick learner with strong analytical thinking and problem-solving skills.<br>
+🤖 Interested in AI, Workflow Automation, Backend Development, and Data Analytics.<br>
+🤝 Team player with excellent collaboration and communication skills.<br>
+🎯 Self-motivated, adaptable, and always eager to learn new technologies.<br>
+📈 Continuously improving my technical and professional skills through projects and hands-on learning.<br>
+⚡ Love turning ideas into practical software solutions.<br>
+🌱 Currently exploring Python, Java, MySQL, n8n Automation, Power BI, and Microsoft Excel.<br>
+💼 Open to opportunities where I can contribute, learn, and grow as a Software Engineer.<br>
 
 ---
 
-# 🚀 About Me
+## 🌐 Connect With Me
 
-🎓 B.Tech Graduate in Information Technology
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanthu2005)
 
-💻 Passionate about developing software, automating workflows, and solving real-world problems through technology.
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KanthuNaik30234)
 
-## 🌱 Currently Learning
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ExploreWithKanthu)
 
-- Python Development
-- Java Programming
-- MySQL
-- Backend Development
-- n8n Workflow Automation
-- AI Integrations
-- Power BI
-- Microsoft Excel
-- REST APIs
-- System Design
-
-## 🎯 Career Goal
-
-To become a skilled Software Engineer by building impactful applications, continuously learning modern technologies, and contributing to innovative teams.
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/kanthu2005">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:naikkanthu2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://x.com/KanthuNaik30234">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://www.youtube.com/@ExploreWithKanthu">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
-
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naikkanthu2@gmail.com)
 
 ---
 
 # 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## 🌐 Web Technologies
+### 🌐 Web Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## 🗄️ Database
+### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## ⚙️ Automation & AI
+### ⚙️ Automation & AI
 
-<p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-## 📊 Data Analytics
+### 📊 Data Analytics
 
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-## 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+# 📊 GitHub Stats
 
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| 🤖 AI Job Portal | AI-powered resume screening platform | Python |
-| 🎙️ AI Voice Assistant | Intelligent voice assistant | Python |
-| ⚙️ Google Maps Lead Generator | Automated lead generation workflow | n8n |
-| ✍️ LinkedIn AI Content Generator | AI-based content creation automation | n8n, OpenAI |
-| 📊 Power BI Dashboard | Interactive business analytics dashboard | Power BI |
-| 💻 Java DSA Repository | Data Structures & Algorithms solutions | Java |
+![](https://github-readme-stats.vercel.app/api?username=Kanthu2005&theme=tokyonight&show_icons=true&hide_border=true)
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kanthu2005&theme=tokyonight&hide_border=true)
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kanthu2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanthu2005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kanthu2005&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanthu2005&theme=tokyo-night"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanthu2005&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kanthu2005&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Kanthu2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
 
 ---
 
-# 📚 Currently Working On
+# 📈 Contribution Graph
 
-- 🤖 AI Automation Workflows
-- ⚙️ n8n Integrations
-- 🐍 Python Projects
-- ☕ Java Development
-- 🗄️ MySQL Database Design
+[![Kanthu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kanthu2005&theme=tokyo-night)](https://github.com/Kanthu2005)
+
+---
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Kanthu2005&style=for-the-badge&color=0e75b6)
+
+---
+
+## 🚀 Current Focus
+
+- 🤖 AI & Workflow Automation with **n8n**
+- 🐍 Python Development
+- ☕ Java Programming
+- 🗄️ MySQL Database
 - 📊 Power BI Dashboards
-- 📈 Excel Data Analysis
-- 🌐 REST API Development
+- 📈 Data Analysis using Microsoft Excel
+- 💻 Building Real-World Software Projects
 
 ---
 
-# 💼 Open To
-
-- Software Engineer
-- Python Developer
-- Java Developer
-- Backend Developer
-- Automation Engineer
-- AI Engineer
-- Data Analyst
-
----
-
-# 📈 2026 Goals
-
-- ✅ Build production-ready software projects
-- ✅ Contribute to Open Source
-- ✅ Master Python Backend Development
-- ✅ Improve DSA & Problem Solving
-- ✅ Create advanced AI automation workflows
-- ✅ Grow my GitHub portfolio
-
----
-
-# 💡 Quote
-
-> **"Every expert was once a beginner. Keep learning, keep building, and never stop improving."**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider following me and starring my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C2FF,100:6C63FF&section=footer"/>
-
-</div>
+> **"Code with purpose. Learn continuously. Build solutions that make an impact." 🚀**
