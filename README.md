@@ -1,336 +1,190 @@
-<h1 align="center">Hi 👋, I'm Kanthu Naik</h1>
-
-<h3 align="ce# 👋 Hi, I'm Kanthu Naik
-
-### Software Developer | AI & Automation Enthusiast | Problem Solver
+# 👋 Hey, I'm Kanthu Naik
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Software+Developer;Python+%7C+Java+%7C+FastAPI;Backend+Development+%26+REST+APIs;AI+Agents+%26+Workflow+Automation;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Python+%7C+Java+%7C+FastAPI;Backend+Development+%26+REST+APIs;AI+Agents+%26+Workflow+Automation;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kanthu2005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Kanthu2005">
+    <img src="https://img.shields.io/badge/GitHub-Kanthu2005-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kanthu2005">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Kanthu2005&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## `01` — About Me
 
-🎓 B.Tech Graduate in Information Technology
+```python
+class Developer:
+    name = "Kanthu Naik"
+    education = "B.Tech in Information Technology"
+    interests = [
+        "Software Engineering",
+        "Backend Development",
+        "AI Agents",
+        "Workflow Automation"
+    ]
+    mindset = "Build. Learn. Improve. Repeat."
+```
 
-💻 Passionate about building useful software applications, backend systems, and AI-powered tools.
+I'm a software developer passionate about building practical applications, developing backend systems, and exploring AI-powered solutions.
 
-🤖 Exploring AI agents, automation workflows, and intelligent applications.
-
-🛠️ Learning by building real-world projects and solving practical problems.
-
-🎯 **Goal:** Grow as a Software Engineer and contribute to impactful products.
-
-- 🔭 Currently working on AI agents and backend applications.
-- 🌱 Improving my skills in FastAPI, databases, Docker, and automation.
-- 💡 Interested in software engineering, backend development, and AI-powered applications.
-- 🤝 Open to opportunities, collaboration, and exciting projects.
+- 🔭 Building real-world software and AI agent projects.
+- ⚡ Working with Python, FastAPI, databases, and APIs.
+- 🤖 Exploring LLM integrations and n8n automation.
+- 🌱 Improving my skills in Docker, system design, and deployment.
+- 🎯 Looking for opportunities to grow as a Software Engineer.
 
 ---
 
-## 🧠 My Tech Stack
+## `02` — Tech Arsenal
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="center">
+  <b>LANGUAGES</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python, Java, JavaScript" />
 </p>
 
-### 🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<p align="center">
+  <b>BACKEND & WEB</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,html,tailwind&theme=dark" alt="FastAPI, Flask, React, HTML, Tailwind CSS" />
 </p>
 
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<p align="center">
+  <b>DATABASES</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis" />
 </p>
 
-### 🤖 AI & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workflow_Automation-FF6D00?style=for-the-badge&logo=dependabot&logoColor=white" />
-</p>
-
-### ⚙️ Tools & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<p align="center">
+  <b>TOOLS & AUTOMATION</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux&theme=dark" alt="Docker, Git, GitHub, VS Code, Postman, Linux" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-API%20Development-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Agent%20Development-8B5CF6?style=flat-square" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## `03` — Featured Projects
 
-### 🍽️ DineFlow — Restaurant & Kitchen Management
+<p align="center">
+  <a href="https://github.com/Kanthu2005/DineFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kanthu2005&repo=DineFlow&theme=tokyonight&hide_border=true" alt="DineFlow repository card" />
+  </a>
+  <a href="https://github.com/Kanthu2005/Hire_ME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kanthu2005&repo=Hire_ME&theme=tokyonight&hide_border=true" alt="Hire-ME repository card" />
+  </a>
+</p>
 
-A restaurant management application focused on handling orders, menus, kitchen operations, and inventory workflows.
+### 🍽️ DineFlow
+**Restaurant & Kitchen Management System**
 
-- Manage restaurant orders and menu items.
-- Design recipe-based ingredient stock deduction workflows.
-- Build backend APIs and database-driven features.
+A restaurant management application focused on order processing, menu management, kitchen operations, and recipe-based inventory workflows.
 
-**Tech:** FastAPI · React · MongoDB
+`FastAPI` `React` `MongoDB`
 
-🔗 [View Repository](https://github.com/Kanthu2005/DineFlow)
+[Explore Repository →](https://github.com/Kanthu2005/DineFlow)
 
 ### 🤖 AI Command-Line Agent
+**Natural-Language Task Execution**
 
-An AI-assisted command-line application designed to interpret user instructions and perform supported computer tasks with safety controls.
+A command-line project designed to translate user instructions into supported computer tasks, with controlled command execution and result verification.
 
-- Execute supported tasks from natural-language instructions.
-- Create files and run programs through controlled workflows.
-- Verify execution results and handle errors safely.
+`Python` `Command Execution` `Testing`
 
-**Tech:** Python · AI Agents · Command Execution · Testing
+[Explore My GitHub →](https://github.com/Kanthu2005)
 
-🔗 [Explore My GitHub](https://github.com/Kanthu2005)
+### 🧑‍💻 Hire-ME AI Job Portal
+**AI-Assisted Resume Screening**
 
-### 🧑‍💻 Hire-ME — AI Job Portal
+A job portal project focused on resume screening, keyword matching, candidate ranking, and recruiter workflows.
 
-An AI-powered job portal concept designed to help recruiters screen resumes and rank candidates against job requirements.
+`Python` `React` `Tailwind CSS`
 
-- Resume screening and keyword matching.
-- Candidate ranking based on job requirements.
-- Recruiter and job-seeker workflows.
+[Explore Repository →](https://github.com/Kanthu2005/Hire_ME)
 
-**Tech:** Python · React · Tailwind CSS · AI
+### 🔎 AI Search Agent
+**AI-Powered Information Retrieval**
 
-🔗 [View Repository](https://github.com/Kanthu2005/Hire_ME)
+An AI application exploring language-model integration for helping users search for and understand information.
 
-### ⚙️ AI Search Agent
+`Python` `FastAPI` `LLM Integration`
 
-An AI-focused search application exploring how language models can help users retrieve and understand information.
-
-**Tech:** Python · FastAPI · LLM Integration
-
-🔗 [View Repository](https://github.com/Kanthu2005/aisearchagent)
+[Explore Repository →](https://github.com/Kanthu2005/aisearchagent)
 
 ---
 
-## 📊 GitHub Statistics
+## `04` — GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kanthu2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanthu2005&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kanthu2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanthu2005&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kanthu2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Kanthu2005&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanthu2005&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanthu2005&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## `05` — What I'm Focusing On
 
-- 🐍 Strengthening Python and Java fundamentals.
-- ⚡ Building REST APIs with FastAPI.
-- 🗄️ Improving database design and query skills.
-- 🤖 Developing AI agents and automation workflows.
-- 🐳 Learning Docker and deployment practices.
-- 🚀 Building reliable, production-oriented applications.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚡ Backend Engineering</h3>
+      REST APIs, FastAPI, authentication, databases, and application architecture.
+    </td>
+    <td width="50%">
+      <h3>🤖 AI Engineering</h3>
+      AI agents, LLM integrations, task automation, and intelligent applications.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗄️ Data & Persistence</h3>
+      SQL, PostgreSQL, MongoDB, Redis, and reliable data management.
+    </td>
+    <td width="50%">
+      <h3>🐳 Deployment & Tools</h3>
+      Docker, Git, testing, debugging, and deployment workflows.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+## `06` — Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/kanthu2005">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
   <a href="mailto:naikkanthu2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kanthu2005">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/KanthuNaik30234">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Follow%20on-X-111827?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@ExploreWithKanthu">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-Explore%20With%20Kanthu-DC2626?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
+  <i>“Great software is built through curiosity, consistency, and continuous learning.”</i>
   <br/><br/>
-  <i>"Great software is built through curiosity, consistency, and continuous learning."</i>
-  <br/><br/>
-  <b>💙 Keep Building. Keep Learning. Keep Growing.</b>
-</p>nter">
-Software Developer • AI & Automation Enthusiast • Problem Solver
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=B.Tech+Graduate+in+Information+Technology;Python+%7C+Java+%7C+MySQL;AI+Automation+with+n8n;Power+BI+%7C+Microsoft+Excel;Building+Real-World+Projects" />
+  <b>⚡ Build with purpose. Automate with intelligence. Keep growing.</b>
 </p>
-
-<p align="center">
-<a href="https://komarev.com/ghpvc/?username=Kanthu2005">
-<img src="https://komarev.com/ghpvc/?username=Kanthu2005&label=Profile+Views&color=0e75b6&style=flat" />
-</a>
-</p>
-
----
-
-# 💫 About Me
-
-🎓 B.Tech Graduate in Information Technology
-
-💻 Passionate about Software Development, AI Automation, and Data Analytics.
-
-🚀 I enjoy building real-world applications that solve practical problems.
-
-🌱 Currently improving my skills in
-
-- Python
-- Java
-- MySQL
-- n8n Workflow Automation
-- Power BI
-- Microsoft Excel
-
-🎯 Looking for opportunities as a **Software Engineer** where I can learn, build, and contribute.
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/kanthu2005">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:naikkanthu2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://x.com/KanthuNaik30234">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://www.youtube.com/@ExploreWithKanthu">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Automation
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-### Data Analytics
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Job Portal | AI-powered Resume Screening Platform |
-| ⚙️ Google Maps Lead Generator | Automated Lead Generation using n8n |
-| ✍️ LinkedIn AI Content Generator | AI-powered LinkedIn Content Automation |
-| 🎙️ AI Voice Assistant | Intelligent Voice Assistant |
-| 📊 Power BI Dashboard | Interactive Business Dashboard |
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kanthu2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanthu2005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kanthu2005&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanthu2005&theme=tokyo-night"/>
-
----
-
-# 🎯 Current Focus
-
-- 🤖 AI Automation
-- 🐍 Python
-- ☕ Java
-- 🗄️ MySQL
-- 📊 Power BI
-- ⚙️ n8n
-- 💻 Building Production-Ready Projects
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Great software is built through curiosity, consistency, and continuous learning."*
-
-</div>
